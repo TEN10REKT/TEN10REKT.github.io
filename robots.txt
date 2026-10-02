@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ten10rekt.github.io/sitemap.xml
